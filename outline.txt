@@ -3,3 +3,6 @@ This is my first Novel i am trying to write.
 Chapter 2
 Chapter 2 - 1
 This is the second chapter in my Novel that i am trying to write....^....,
+Chapter 2-2
+This is the second chapter with 2nd part of the series.
+
